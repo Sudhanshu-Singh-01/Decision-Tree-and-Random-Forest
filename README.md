@@ -1,6 +1,6 @@
 # Decision-Tree-and-Random-Forest
 
-Trying to predict wheather or not a person who has taken loan was able to repay back loan amount to bank.
+Trying to predict whether or not a person who has taken loan was able to repay back loan amount to bank.
 
 Using loan_data.csv as data we are gonna try to do prediction based on Decision Tree and also by Random Forest Algorithms.
 
